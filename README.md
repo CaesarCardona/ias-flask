@@ -4,9 +4,7 @@ A simple service for uploading and downloading files using curl.
 Infrastructure is provisioned with Terraform, and the service runs in a Docker container.
 
 ## 🚀 Getting Started
-1. Initialize and Apply Terraform
-
-# Start
+Initialize and Apply Terraform
 ```
 cd terraform
 terraform init
